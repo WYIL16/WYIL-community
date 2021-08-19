@@ -1,5 +1,5 @@
 # WYIL-community
-牛客社区成品代码  
+瑞客社区成品代码  
 技术栈：Spring Boot+MyBatis+MySQL+Redis+Kafka+Elasticsearsh  
 工作内容：  
 • 使用Redis存储和登陆ticket和验证码，解决分布式session问题，同时实现发帖，评论，私信等社区功能； 
